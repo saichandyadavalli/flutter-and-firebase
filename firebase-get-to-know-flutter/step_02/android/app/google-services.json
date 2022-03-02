@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998113573653",
+    "project_id": "fir-learning-24d56",
+    "storage_bucket": "fir-learning-24d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998113573653:android:26e3d8505f8830ac03071c",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998113573653-03el64b816n5rkpsh7qissjtcbc2eelj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTFcE5EMWBU9TbBgdMhWHI8ejSuL0ze8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998113573653-03el64b816n5rkpsh7qissjtcbc2eelj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
